@@ -10,27 +10,36 @@ function declareVarOne() {
 // Function 2
 function declareVarTwo() {
   // Your code here
-  let;
+  let userName = "John Doe";
+  return userName;
 }
 
 // Function 3
 function declareVarThree() {
   // Your code here
+  let isCompleted = true;
+  return isCompleted;
 }
 
 // Function 4
 function declareVarFour() {
   // Your code here
+  let emptyArray = [];
+  return emptyArray;
 }
 
 // Function 5
 function declareVarFive() {
   // Your code here
+  let nullVar = null;
+  return nullVar;
 }
 
 // Function 6
 function declareVarSix() {
   // Your code here
+  let underfinedVar = undefined;
+  return underfinedVar;
 }
 
 module.exports = {
