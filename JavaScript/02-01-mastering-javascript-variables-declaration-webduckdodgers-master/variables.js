@@ -4,13 +4,13 @@
 function declareVarOne() {
   // Your code here
   let myVar = 10;
-
   return myVar;
 }
 
 // Function 2
 function declareVarTwo() {
   // Your code here
+  let;
 }
 
 // Function 3
